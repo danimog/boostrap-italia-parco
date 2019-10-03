@@ -1,0 +1,13 @@
+$primary-h: 120;
+$primary-s: 100;
+$primary-b: 30;
+
+// Per l'override della famiglia di caratteri
+//$font-family-serif:      "Custom Font", Georgia, serif;
+//$font-family-sans-serif: "Custom Font", Arial, Helvetica, sans-serif;
+//$font-family-monospace:  "Custom Font", "Courier New", Courier, monospace;
+
+.primary-bg{background-color:#ff3333;}
+
+// import libreria
+@import "../../bootstrap-italia/dist/css/bootstrap-italia.min.css";

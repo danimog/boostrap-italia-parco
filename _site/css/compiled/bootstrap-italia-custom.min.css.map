@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "bootstrap-italia-custom.min.css",
+	"sources": [
+		"../../scss/bootstrap-italia-custom.scss"
+	],
+	"names": [],
+	"mappings": "AAYA,OAAO,CAAP,6DAAO,CAHP,AAAA,WAAW,AAAA,CAAC,gBAAgB,CAAC,OAAO,CAAG"
+}

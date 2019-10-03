@@ -1,0 +1,9 @@
+# Site Settings
+baseurl: ""
+url : ""
+
+# Build Ssttings
+sass:
+    load_paths:
+        - _sass
+        - node_modules
